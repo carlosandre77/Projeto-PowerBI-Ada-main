@@ -132,4 +132,3 @@ Essa fórmula penaliza os títulos com mais votos, pois a divisão por um númer
 | Python | Pandas | Power BI | Git | 
 | ------ | ------ | -------- | --- | 
 | <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="180"> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="110"> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="100"> |
-
